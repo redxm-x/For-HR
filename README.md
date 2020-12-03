@@ -5,6 +5,7 @@ Most of the time I'm programming with Python.
 ## CV
 #### Current role: IT support specialist. 
 #### Current company: Sii Poland.
+#### Experience: 2020-02 - current.
 
 ## Skills.
 
